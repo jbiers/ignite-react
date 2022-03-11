@@ -1,5 +1,5 @@
-export function App() {
-    throw new Error('Error!! You are stupid!');
+import './styles/global.scss'
 
+export function App() {
     return <h1>Hello World</h1>
 }
